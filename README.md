@@ -27,7 +27,7 @@ This sample is part of the [Learn Forge](http://learnforge.autodesk.io) tutorial
 
 Clone this project or download it (this `netcore` branch only). It's recommended to install [GitHub desktop](https://desktop.github.com/). To clone it via command line, use the following (**Terminal** on MacOSX/Linux, **Git Shell** on Windows):
 
-    git clone netcore https://github.com/Autodesk-Forge/learn.forge.viewhubmodels.git
+    git clone -b netcore https://github.com/augustogoncalves/learn.forge.viewhubmodels.git
 
 **Visual Studio** (Windows):
 
