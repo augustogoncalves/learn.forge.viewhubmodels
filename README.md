@@ -8,11 +8,19 @@
 [![Data-Management](https://img.shields.io/badge/Data%20Management-v1-green.svg)](http://developer.autodesk.com/)
 [![Viewer](https://img.shields.io/badge/Viewer-v6-green.svg)](http://developer.autodesk.com/)
 
-![Intermediate](https://img.shields.io/badge/Level-Basic-green.svg)
+![Intermediate](https://img.shields.io/badge/Level-Intermediate-blue.svg)
 
 # Description
 
-This sample is part of the [Learn Forge](http://learnforge.autodesk.io) tutorials. It includes authentication, listing and viewing files.
+This sample is part of the [Learn Forge](http://learnforge.autodesk.io) tutorials. It includes authentication, listing and viewing files. This modified version runs with .NET Code and have a few additional features (comparing to tutorial basic code):
+
+- BIM 360 Provisioning button and dialog
+- BIM 360 Plans folder handling to show Documents
+- jsTree sorting
+
+## Thumbnail
+
+![](thumbnail.png)
 
 # Setup
 
